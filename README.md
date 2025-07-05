@@ -3,7 +3,7 @@
 A graphical user interface (GUI) for interacting with a `gemini` command-line tool. This application provides a user-friendly way to construct and send prompts, manage conversation history, and include context from local files, all without needing to type complex commands in the terminal.
 
 ![Gemini Control Center Screenshot](docs/image.png)
-*(Note: You will need to create this screenshot and place it in a `docs` folder)*
+
 
 ---
 
