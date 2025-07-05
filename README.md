@@ -2,7 +2,7 @@
 
 A graphical user interface (GUI) for interacting with a `gemini` command-line tool. This application provides a user-friendly way to construct and send prompts, manage conversation history, and include context from local files, all without needing to type complex commands in the terminal.
 
-![Gemini Control Center Screenshot](docs/screenshot.png)
+![Gemini Control Center Screenshot](docs/image.png)
 *(Note: You will need to create this screenshot and place it in a `docs` folder)*
 
 ---
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed and configured:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemini-cli-ui.git
+    git clone https://github.com/MirkoCuccurullo/gemini-cli-ui.git
     cd gemini-cli-ui
     ```
 
